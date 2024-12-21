@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Muaad Akmal</h1>
-<h3 align="center">A passionate frontend developer, 3d Designer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muaad151&label=Profile%20views&color=0e75b6&style=flat" alt="muaad151" /> </p>
 
